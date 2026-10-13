@@ -1,4 +1,4 @@
-# Data Science core trainer (MS level)
+# Data Science trainer (MS level)
 
 Built output of the `data-science` pack from [Bannerless-Studio/gre-math](https://github.com/Bannerless-Studio/gre-math) (engine + packs). Live: https://bannerless-studio.github.io/data-science/
 
